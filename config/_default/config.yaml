@@ -24,13 +24,13 @@ taxonomies:
   category: categories
   series: series
   tag: tags
-  authors: authors
+  #authors: authors
 
 build:
   writeStats: true
 
-permalinks:
-  news: /news/:year/:month/:title/
+#permalinks:
+  #news: /news/:year/:month/:title/
 
 # module:
   # proxy: https://goproxy.cn
