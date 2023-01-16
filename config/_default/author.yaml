@@ -1,5 +1,6 @@
 name: Xiaohan Gao
 # avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
+avatar: images/profile.jpeg
 bio: 'A Third-year PhD Student.'
 #company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
 location: <a href='https://www.openstreetmap.org/search?query=PekingUniversity'>Earth</a> # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
@@ -16,3 +17,6 @@ social:
   #paypal: razonyang
   rss: "" # Remove RSS
   website: https://gaoxiaohan.com/
+  linkedin: xiaohan-gao-911aba1b9
+  telegram: hecatephy
+  instagram: metaxh
