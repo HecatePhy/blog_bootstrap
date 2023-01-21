@@ -231,8 +231,10 @@ pwa:
     # theme_color: 
     # background_color: 
 
-    # Icons
-    # [[pwa.manifest.icons]]
+    Icons
+    [[pwa.manifest.icons]]
+      sizes: 225x225
+      src: /images/icons/icon.png
     #   sizes: 96x96
     #   src: /images/icons/icon-96x96.png
     # [[pwa.manifest.icons]]
