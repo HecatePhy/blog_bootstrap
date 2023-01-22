@@ -9,6 +9,9 @@ categories = ["PL"]
 relatedPostCount = 3
 sidebar = true
 index = true
+toc = true
+authors = ["Xiaohan"]
+pinned = false
 +++
 
 test
