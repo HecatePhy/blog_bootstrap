@@ -12,7 +12,6 @@ index = true
 toc = true
 authors = ["Xiaohan"]
 pinned = false
-readingTime = 
 +++
 
 test

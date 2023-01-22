@@ -44,8 +44,8 @@ palette: blue-gray # Default palette. Optional. You'll need to clear the browser
 googleAdsense: 
 
 #math: true # Enable math globally.
-#toc: true # Disable TOC globally.
-#tocPosition: content
+toc: true # Disable TOC globally.
+tocPosition: sidebar
 # breadcrumb: false # Disable breadcrumb
 # breadcrumbDivider: > # Breadcrumb divider
 # diagram: true
