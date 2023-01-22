@@ -7,8 +7,12 @@ tags = ["PL"]
 series = ["Diff PL Series"]
 categories = ["PL"]
 relatedPostCount = 3
+sidebar = true
+index = true
 +++
 
 test
+
+## test
 
 <!--more-->
