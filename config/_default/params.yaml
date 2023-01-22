@@ -45,7 +45,7 @@ googleAdsense:
 
 math: true # Enable math globally.
 toc: true # Disable TOC globally.
-tocPosition: content
+#tocPosition: content
 # breadcrumb: false # Disable breadcrumb
 # breadcrumbDivider: > # Breadcrumb divider
 # diagram: true
