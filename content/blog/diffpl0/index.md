@@ -11,6 +11,7 @@ index = true
 toc = true
 authors = ["Xiaohan"]
 pinned = false
+sidebar = false
 +++
 
 test
