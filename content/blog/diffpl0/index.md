@@ -7,7 +7,6 @@ tags = ["PL"]
 series = ["Diff PL Series"]
 categories = ["PL"]
 relatedPostCount = 3
-sidebar = false
 index = true
 toc = true
 authors = ["Xiaohan"]
