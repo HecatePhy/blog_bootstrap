@@ -13,6 +13,7 @@ toc = true
 authors = ["Xiaohan"]
 pinned = false
 featured = true
+carousel = true
 +++
 
 test
