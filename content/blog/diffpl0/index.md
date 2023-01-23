@@ -18,6 +18,8 @@ carousel = true
 
 test
 
+<!--more-->
+
 ## test
 
 <!--more-->
