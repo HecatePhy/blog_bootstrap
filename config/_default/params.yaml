@@ -242,6 +242,9 @@ pwa:
     #  sizes: 128x128 
     #  type: image/ico
     #  src: /images/icons/favicon.ico
+    [[pwa.manifest.icons]]
+      sizes: 128x128
+      src: /images/icons/favicon.ico
 
 contact:
   # endpoint: https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd # Backend endpoint, remove this line if you're using Netlify.
