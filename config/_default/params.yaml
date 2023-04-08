@@ -243,7 +243,6 @@ pwa:
     #  type: image/ico
     #  src: /images/icons/favicon.ico
     [[pwa.manifest.icons]]
-      sizes: 128x128
       src: /images/icons/favicon.ico
 
 contact:
