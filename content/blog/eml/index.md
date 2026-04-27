@@ -13,10 +13,11 @@ toc = true
 authors = ["Xiaohan"]
 pinned = false
 featured = true
-carousel = true
+carousel = false
 +++
 
 This blog is about an interesting paper *All elementary functions from a single operator*.
+This paper 
 
 <!--more-->
 
